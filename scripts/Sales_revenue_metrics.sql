@@ -104,10 +104,11 @@ second highest revenue generator.
 ===================================================Summary Report======================================================================
 
 Electronics show the most potential for growth due to their low product count and sales. Focused efforts on assortment expansion, marketing,
-and customer engagement can help unlock this categoryâ€™s potential and increase overall revenue contribution.
+and customer engagement can help unlock this category’s potential and increase overall revenue contribution.
 
 Recommendations for Improvement: Electronics (Least-Explored Category)
 1. Expand Product Range: Consider adding more SKUs to attract a wider audience and meet diverse customer needs.
 2. Improve Visibility: Increase the visibility of electronics through website banners, featured listings, or special events (e.g., electronics week).
 3. Cross-Selling: Bundle electronics with complementary categories (e.g., electronics with toys or furniture) to increase average order value.
 */
+
